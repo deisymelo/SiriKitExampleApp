@@ -11,3 +11,6 @@ In this project, we'll have a view to display the items to buy and a view with i
 
 
 ![image 1](https://github.com/deisymelo/SiriKitExampleApp/assets/25552067/4650523b-fdd4-4327-a076-eb44432f1083)   ![image2](https://github.com/deisymelo/SiriKitExampleApp/assets/25552067/c0b225b5-7d7e-44ef-abad-cf938e78f5cb)
+
+# Note
+To build this project correctly you have to set up App Groups in each target and update line 19 from the CoreDataManager class with the group name created
