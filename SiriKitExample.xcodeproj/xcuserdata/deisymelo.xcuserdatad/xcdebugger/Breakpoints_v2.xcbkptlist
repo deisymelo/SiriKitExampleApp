@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9C16C980-1372-4416-97F0-2EDDBFAFD39C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0871705B-FB62-484C-A94F-2596E0D5798E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SiriKitExample/Views/AddItem/AddItemViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "saveItem(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FD518185-8236-4B90-AD10-9832E73C9066"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SiriKitExampleIntent/ShopingListHandler.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "handle(intent:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2EBA4CF5-6368-43C0-9839-238278C147AD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SiriKitExampleIntent/IntentHandler.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "handler(for:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B32AF390-63E2-46ED-9B99-2C05206EBDE0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SiriKitExampleIntent/ShopingListHandler.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "resolveNewItem(for:with:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B32AF390-63E2-46ED-9B99-2C05206EBDE0 - 3546d03a7fd14c4e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SiriKitExampleIntent.ShopingListHandler.resolveNewItem(for: SiriKitExampleIntent.ShopingListIntent, with: (__C.INStringResolutionResult) -&gt; ()) -&gt; ()"
+                  moduleName = "SiriKitExampleIntent"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/deisymelo/Documents/Some%20Tests/Zemoga%20tests/SiriKitExample/SiriKitExampleIntent/ShopingListHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "B32AF390-63E2-46ED-9B99-2C05206EBDE0 - 3546d03a7fd14c4e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SiriKitExampleIntent.ShopingListHandler.resolveNewItem(for: SiriKitExampleIntent.ShopingListIntent, with: (__C.INStringResolutionResult) -&gt; ()) -&gt; ()"
+                  moduleName = "SiriKitExampleIntent"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/deisymelo/Documents/Some%20Tests/Zemoga%20tests/SiriKitExample/SiriKitExampleIntent/ShopingListHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "264">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "97A745FF-328D-477F-A757-D3484F7B5125"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SiriKitExampleIntent/ShopingListHandler.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "handle(intent:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0EEABE0F-B899-4962-99FB-A2D5C97EF0ED"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SiriKitExample/DataManager/DataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "saveItem(title:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0EEABE0F-B899-4962-99FB-A2D5C97EF0ED - 4993d6fa930e468f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SiriKitExampleIntent.CoreDataManager.saveItem(title: Swift.String) -&gt; ()"
+                  moduleName = "SiriKitExampleIntent"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/deisymelo/Documents/Some%20Tests/Zemoga%20tests/SiriKitExample/SiriKitExample/DataManager/DataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "0EEABE0F-B899-4962-99FB-A2D5C97EF0ED - d0c893be5a20ad3f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SiriKitExample.CoreDataManager.saveItem(title: Swift.String) -&gt; ()"
+                  moduleName = "SiriKitExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/deisymelo/Documents/Some%20Tests/Zemoga%20tests/SiriKitExample/SiriKitExample/DataManager/DataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "72">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
